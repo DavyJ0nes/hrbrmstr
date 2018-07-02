@@ -1,8 +1,8 @@
-# hrbrmaster
+# hrbrmstr
 
 ## Description
 
-hrbrmster (Harbour Master) is a CLI tool to get information about Docker Image Tags from Docker Hub.
+hrbrmstr (Harbour Master) is a CLI tool to get information about Docker Image Tags from Docker Hub.
 
 It's a prety basic implementation and the motivation behind it was mainly to explore Golang more.
 
@@ -22,7 +22,7 @@ go install
 go test -v imageinfo
 
 # To get some info about the Golang Docker image
-hrbrmster library/golang
+hrbrmstr library/golang
 ```
 
 ## TODO
