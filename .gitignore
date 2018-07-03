@@ -12,6 +12,9 @@ hrbrmstr
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# Dependencies
+vendor/*
+
 # General
 .DS_Store
 .AppleDouble

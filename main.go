@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/davyj0nes/docker-image-search/imageinfo"
+	"github.com/davyj0nes/hrbrmstr/imageinfo"
 )
 
 func main() {
